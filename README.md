@@ -16,9 +16,9 @@ My Favourite Projects
 </p>
 
 <p float="left">
-  <img src="/relavoux1.1landing.PNG" width="250" />
-  <img src="/relavouxproducts.PNG" width="250" /> 
-  <img src="/relavouxproducts.PNG" width="250" />
+  <img src="/relavoux1.1landing.PNG" width="350" />
+  <img src="/relavouxproducts.PNG" width="350" /> 
+  <img src="/relavouxproducts.PNG" width="350" />
 </p>
 
 
