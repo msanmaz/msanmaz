@@ -1,6 +1,11 @@
-### Hi there 👋
+<p align="center">
+ ### Hi there 👋
+</p>
 
+<p align="center">
 ### Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired.
+
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msanmaz&count_private=true&show_icons=true&theme=radical)
 
