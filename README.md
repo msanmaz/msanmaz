@@ -33,7 +33,7 @@ My Favourite Projects
 
  <div width="30%">
    <img src="/twitterclone.PNG" width="350" />
- Twitter Clone
+ Twitter Clone - prisma-exp
  </div>
 
  
