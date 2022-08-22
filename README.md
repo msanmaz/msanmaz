@@ -16,17 +16,17 @@ My Favourite Projects
 </p>
 
 <div width="100%">
-  <div width="33%">
+  <div width="30%">
     <img src="/relavoux1.1landing.PNG" width="350" />
   E-commerce Website RLVX
   </div>
- <div width="33%">
+ <div width="30%">
    <img src="/mosh-landing.PNG" width="350" /> 
  E-commerce Website Mosh
  
  </div>
 
- <div width="33%">
+ <div width="30%">
    <img src="/twitterclone.PNG" width="350" />
  Twitter Clone
  </div>
