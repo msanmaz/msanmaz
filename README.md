@@ -2,6 +2,9 @@
 **Hi there 👋**
 </p>
 
+![Alt text](./wave.svg)
+<img src="./wave.svg">
+
 <p align="center">
  Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired.
 
