@@ -14,13 +14,11 @@
 <p align="center">
 My Favourite Projects
 </p>
-<div class="github-card" data-github="msanmaz/relavoux" data-width="400" data-height="" data-theme="medium"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 <p float="left">
  <div width='33%'>
     <img src="/relavoux1.1landing.PNG" width="350" />
- E-commerce Website RLVX 
+  <p align="center">E-commerce Website RLVX</p> 
   </div>
 
   <img src="/mosh-landing.PNG" width="350" /> 
