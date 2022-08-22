@@ -1,10 +1,26 @@
-<p align="center">
+<style>
+.heading{
+display:flex;
+justify-content:center;
+}
+.green {
+ 
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
+<div class="heading">
+
+<p class="green">
 **Hi there 👋**
 </p>
 <p align="center">
  Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired.
 
 </p>
+</div>
+
 
 
 <img src="./wave.svg">
