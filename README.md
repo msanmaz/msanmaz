@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msanmaz&count_private=true&show_icons=true&theme=radical)
 
 
@@ -9,3 +11,4 @@
 - 👯 I’m looking to collaborate someone who likes UI design and digital art
 - 🤔 I’m looking for help with TypeScript
 - 📫 How to reach me: osanmaz4992@gmail.com
+- 👻 Fun fact: ... I studied Journalism, but I am now a Computer Science grad Front-end developer working in Dublin.
