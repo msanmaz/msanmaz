@@ -7,12 +7,26 @@
 </p>
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msanmaz&count_private=true&show_icons=true&theme=radical)
-
-
 <img src="./wave.svg">
+
+
+
+<p align="center">
+My Favourite Projects
+</p>
+
+<p float="left">
+  <img src="/relavoux1.1landing.PNG" width="100" />
+  <img src="/relavouxproducts.PNG" width="100" /> 
+  <img src="/relavouxproducts.PNG" width="100" />
+</p>
+
+
+
+
+
+
+
 
 
 
@@ -23,11 +37,12 @@
 - 📫 How to reach me: osanmaz4992@gmail.com
 - 👻 Fun fact: ... I studied Journalism, but I am now a Computer Science grad Front-end developer working in Dublin.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msanmaz&count_private=true&show_icons=true&theme=radical)
+
+
 
 
 
 <img src='./tags.svg'/>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msanmaz&count_private=true&show_icons=true&theme=radical)
