@@ -1,9 +1,13 @@
 
 
+<div style="display:flex; justify-content:center font-weight: bold;
+">
+Hi there 👋
 
-###Hi there 👋
+Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired.
 
-##Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired.
+
+</div>
 
 
 
@@ -16,7 +20,7 @@
 My Favourite Projects
 </p>
 
-<div width="100%">
+<div style="width:100%; display:flex; flex-wrap:wrap;">
   <div width="30%">
     <img src="/relavoux1.1landing.PNG" width="350" />
   E-commerce Website RLVX
