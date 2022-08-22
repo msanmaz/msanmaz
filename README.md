@@ -1,15 +1,10 @@
 
 
-<div style="display:flex; justify-content:center;">
 
-<p style="font-weight: bold;">
-Hi there 👋
-</p>
-<p align="center">
- Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired.
+###Hi there 👋
 
-</p>
-</div>
+##Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired.
+
 
 
 
