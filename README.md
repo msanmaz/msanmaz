@@ -1,8 +1,8 @@
 
 
 
-<h1>Hi there 👋</h1>
-<p>
+<h1 align="center">Hi there 👋</h1>
+<p align="center">
 Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired.
 
 
