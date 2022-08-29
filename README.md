@@ -15,7 +15,31 @@ Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired
 
 
 
+<h2 align="center">My favorite projects 💻</h2>
+<br />
 
+<p align="center">
+  <img width="400" src="/relavouxprpducts.PNG" />
+    <img width="400" src="/twitterclone.PNG" />
+ <a href="https://github.com/msanmaz/relavoux">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=relavoux&theme=tokyonight" />
+</a>
+  <a href="https://github.com/msanmaz/prisma-exp">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=prisma-exp&theme=tokyonight" />
+</a>
+  <img width="400" src="/mosh-landing1.1.PNG" />
+    <img width="400" src="/rental-apt.png" />
+
+  <a href="https://github.com/msanmaz/mosh">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=mosh&theme=tokyonight" />
+</a>
+<a href="https://github.com/msanmaz/rental-apt">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=rental-apt&theme=tokyonight" />
+</a>
+</p>
+
+<br />
+<br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
 </p>
