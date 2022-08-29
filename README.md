@@ -1,13 +1,12 @@
 
 
-<div style="display:flex; justify-content:center font-weight: bold;
-">
-Hi there 👋
 
+<h1>Hi there 👋</h1>
+<p>
 Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired.
 
 
-</div>
+</p>
 
 
 
@@ -16,28 +15,29 @@ Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired
 
 
 
+<h2 align="center">My favorite projects 💻</h2>
+<br />
+
 <p align="center">
-My Favourite Projects
+  <img width="400" src="/" />
+  <img width="400" src="/rlvx-mobile.png" />
+ <a href="https://github.com/msanmaz/relavoux">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=relavoux&theme=tokyonight" />
+</a>
+  <a href="https://github.com/msanmaz/prisma-exp">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=prisma-exp&theme=tokyonight" />
+</a>
+  <img width="400" src="/twitterclone.PNG" />
+  <img width="400" src="/mosh-landing1.1.PNG" />
+  <a href="https://github.com/msanmaz/mosh">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=mosh&theme=tokyonight" />
+</a>
+<a href="https://github.com/msanmaz/rental-apt">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=rental-apt&theme=tokyonight" />
+</a>
 </p>
 
-<div style="width:100%; display:flex; flex-wrap:wrap;">
-  <div width="30%">
-    <img src="/relavoux1.1landing.PNG" width="350" />
-  E-commerce Website RLVX
-  </div>
- <div width="30%">
-   <img src="/mosh-landing.PNG" width="350" /> 
- E-commerce Website Mosh
- 
- </div>
-
- <div width="30%">
-   <img src="/twitterclone.PNG" width="350" />
- Twitter Clone - prisma-exp
- </div>
-
- 
- </div>
+<br />
 
 
 
@@ -48,14 +48,14 @@ My Favourite Projects
 
 
 
+<h2 align="center"> About me</h2>
 
-
-- 🔭 I’m currently working on developing E-commerce solutions with React and Nextjs
-- 🌱 I’m currently learning Nodejs and React patterns
-- 👯 I’m looking to collaborate someone who likes UI design and digital art
-- 🤔 I’m looking for help with TypeScript
-- 📫 How to reach me: osanmaz4992@gmail.com
-- 👻 Fun fact: ... I studied Journalism, but I am now a Computer Science grad Front-end developer working in Dublin.
+<p>- 🔭 I’m currently working on developing E-commerce solutions with React and Nextjs</p>
+<p>- 🌱 I’m currently learning Nodejs and React patterns</p>
+<p>- 👯 I’m looking to collaborate someone who likes UI design and digital art</p>
+<p>- 🤔 I’m looking for help with TypeScript</p>
+<p>- 📫 How to reach me: osanmaz4992@gmail.com</p>
+<p>- 👻 Fun fact: ... I studied Journalism, but I am now a Computer Science grad Front-end developer working in Dublin.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msanmaz&count_private=true&show_icons=true&theme=radical)
 
