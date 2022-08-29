@@ -15,31 +15,7 @@ Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired
 
 
 
-<h2 align="center">My favorite projects 💻</h2>
-<br />
 
-<p align="center">
-  <img width="400" src="/relavouxprpducts.PNG" />
-    <img width="400" src="/twitterclone.PNG" />
- <a href="https://github.com/msanmaz/relavoux">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=relavoux&theme=tokyonight" />
-</a>
-  <a href="https://github.com/msanmaz/prisma-exp">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=prisma-exp&theme=tokyonight" />
-</a>
-  <img width="400" src="/mosh-landing1.1.PNG" />
-    <img width="400" src="/rental-apt.png" />
-
-  <a href="https://github.com/msanmaz/mosh">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=mosh&theme=tokyonight" />
-</a>
-<a href="https://github.com/msanmaz/rental-apt">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=rental-apt&theme=tokyonight" />
-</a>
-</p>
-
-<br />
-<br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
 </p>
@@ -49,8 +25,8 @@ Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
-<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"/>
+<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="GitHub" width="40px" src="https://docs.google.com/uc?export=download&id=1fkb6h66GdyddiOlDGXZecngQQoFs9yV0" />
 <img alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
@@ -84,3 +60,7 @@ Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired
 <img src='./tags.svg'/>
 
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=msanmaz&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msanmaz&layout=compact&theme=radical" width="400" />
+</p>
