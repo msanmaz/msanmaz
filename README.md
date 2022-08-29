@@ -77,14 +77,13 @@ Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired
 <br />
 
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=msanmaz&theme=radical&show_icons=true" width="410"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msanmaz&layout=compact&theme=radical" width="400" /> -->
+</p>
 
 
 
 
 <img src='./tags.svg'/>
 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=msanmaz&theme=radical&show_icons=true" width="410"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msanmaz&layout=compact&theme=radical" width="400" /> -->
-</p>
