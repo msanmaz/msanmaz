@@ -65,17 +65,18 @@ Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired
 
 <h2 align="center"> About me</h2>
 
-<p>- 🔭 I’m currently working on developing E-commerce solutions with React and Nextjs</p>
-<p>- 🌱 I’m currently learning Nodejs and React patterns</p>
-<p>- 👯 I’m looking to collaborate someone who likes UI design and digital art</p>
-<p>- 🤔 I’m looking for help with TypeScript</p>
-<p>- 📫 How to reach me: osanmaz4992@gmail.com</p>
-<p>- 👻 Fun fact: ... I studied Journalism, but I am now a Computer Science grad Front-end developer working in Dublin.</p>
+<p align="center">- 🔭 I’m currently working on developing E-commerce solutions with React and Nextjs</p>
+<p align="center">- 🌱 I’m currently learning Nodejs and React patterns</p>
+<p align="center">- 👯 I’m looking to collaborate someone who likes UI design and digital art</p>
+<p align="center">- 🤔 I’m looking for help with TypeScript</p>
+<p align="center">- 📫 How to reach me: osanmaz4992@gmail.com</p>
+<p align="center">- 👻 Fun fact: ... I studied Journalism, but I am now a Computer Science grad Front-end developer working in Dublin.</p>
 
 
+<br />
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msanmaz&count_private=true&show_icons=true&theme=radical)
-
+<img src="https://github-readme-stats.vercel.app/api?username=msanmaz&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msanmaz&layout=compact&theme=radical" width="400" />
 </p>
 
 
