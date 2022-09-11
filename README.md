@@ -28,7 +28,7 @@ Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=prisma-exp&theme=tokyonight" />
 </a>
   <img width="400" src="/mosh-landing1.1.PNG" />
-    <img width="400" src="/rental-apt.png" />
+    <img width="400" src="/bnb-homes.png" />
 
   <a href="https://github.com/msanmaz/mosh">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=mosh&theme=tokyonight" />
