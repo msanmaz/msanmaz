@@ -33,8 +33,8 @@ Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired
   <a href="https://github.com/msanmaz/mosh">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=mosh&theme=tokyonight" />
 </a>
-<a href="https://github.com/msanmaz/rental-apt">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=rental-apt&theme=tokyonight" />
+<a href="https://github.com/msanmaz/bnb-homes">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=bnb-homes&theme=tokyonight" />
 </a>
 </p>
 
