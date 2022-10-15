@@ -7,7 +7,7 @@ Enthusiastic frontend developer since 2020 using ReactJS. Scrum & Agile inspired
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on developing E-commerce solutions with React and Nextjs<br><br>- 🌱 I’m currently learning Nodejs and React patterns<br><br>- 👯 I’m looking to collaborate someone who likes UI design and digital art<br><br>- 🤔 I’m looking for help with TypeScript<br><br>- 📫 How to reach me: osanmaz4992@gmail.com<br><br>- 👻 Fun fact: ... I studied Journalism, but I am now a Computer Science grad Front-end developer working in Dublin.<br><br>
+- 🔭 I’m currently working on developing E-commerce solutions with React and Nextjs<br><br>- 🌱 I’m currently learning Nodejs and React patterns<br><br>- 👯 I’m looking to collaborate someone who likes UI design and digital art<br><br>- 🤔 I’m looking for help with TypeScript<br><br>- 📫 How to reach me: osanmaz4992@gmail.com<br><br>- 👻 Fun fact: ... I studied Journalism, but I am now a Computer Science grad Front-end developer working in Dublin.<br><br>
 
 
 <h2 align="center">My favorite projects 💻</h2>
