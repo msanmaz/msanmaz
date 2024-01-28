@@ -16,7 +16,7 @@ Enthusiastic frontend developer since 2020 using ReactJS && SwiftUI. Scrum & Agi
 
 <p align="center">
   <img width="400" src="/relavoux1.1landing.PNG" />
-    <img width="400" src="/twitterclone.PNG" />
+    <img width="400" src="/bearpower.gif" />
      <a href="https://github.com/msanmaz/relavoux">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=relavoux&theme=tokyonight" />
 </a>
