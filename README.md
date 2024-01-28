@@ -16,12 +16,12 @@ Enthusiastic frontend developer since 2020 using ReactJS && SwiftUI. Scrum & Agi
 
 <p align="center">
   <img width="400" src="/relavoux1.1landing.PNG" />
-    <img width="400" src="/landing-glow.png" />
+    <img width="400" src="/twitterclone.PNG" />
      <a href="https://github.com/msanmaz/relavoux">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=relavoux&theme=tokyonight" />
 </a>
-  <a href="https://github.com/msanmaz/glowing-components">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=glowing-components&theme=tokyonight" />
+  <a href="https://github.com/msanmaz/prisma-exp">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=prisma-exp&theme=tokyonight" />
 </a>
   <img width="400" src="/mosh.png" />
     <img width="400" src="/bnb-homes.png" />
@@ -33,8 +33,12 @@ Enthusiastic frontend developer since 2020 using ReactJS && SwiftUI. Scrum & Agi
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=bnb-homes&theme=tokyonight" />
 </a>
   <img width="400" src="/bearpower.gif" />
+    <img width="400" src="/landing-glow.png" />
 <a href="https://github.com/msanmaz/gsap-pg">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=gsap-pg&theme=tokyonight" />
+</a>
+<a href="https://github.com/msanmaz/glowing-components">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=glowing-components&theme=tokyonight" />
 </a>
 </p>
 <br/>
