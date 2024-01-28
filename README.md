@@ -20,7 +20,7 @@ Enthusiastic frontend developer since 2020 using ReactJS && SwiftUI. Scrum & Agi
      <a href="https://github.com/msanmaz/relavoux">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=relavoux&theme=tokyonight" />
 </a>
-  <a href="https://github.com/msanmaz/prisma-exp">
+  <a href="https://github.com/msanmaz/glowing-components">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=glowing-components&theme=tokyonight" />
 </a>
   <img width="400" src="/mosh.png" />
@@ -31,6 +31,10 @@ Enthusiastic frontend developer since 2020 using ReactJS && SwiftUI. Scrum & Agi
 </a>
 <a href="https://github.com/msanmaz/bnb-homes">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=bnb-homes&theme=tokyonight" />
+</a>
+  <img width="400" src="/bearpower.gif" />
+<a href="https://github.com/msanmaz/gsap-pg">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=gsap-pg&theme=tokyonight" />
 </a>
 </p>
 <br/>
