@@ -20,8 +20,8 @@ Enthusiastic frontend developer since 2020 using ReactJS && SwiftUI. Scrum & Agi
      <a href="https://github.com/msanmaz/rental-apt">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=rental-apt&theme=tokyonight" />
 </a>
-  <a href="https://github.com/msanmaz/prisma-exp">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=prisma-exp&theme=tokyonight" />
+  <a href="https://github.com/msanmaz/client-img-comp">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=client-img-comp&theme=tokyonight" />
 </a>
   <img width="400" src="/mosh.png" />
     <img width="400" src="/bnb-homes.png" />
