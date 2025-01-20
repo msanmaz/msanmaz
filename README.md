@@ -23,15 +23,7 @@ Enthusiastic frontend developer since 2020 using ReactJS && SwiftUI. Scrum & Agi
   <a href="https://github.com/msanmaz/client-img-comp">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=client-img-comp&theme=tokyonight" />
 </a>
-  <img width="400" src="/mosh.png" />
-    <img width="400" src="/bnb-homes.png" />
 
-  <a href="https://github.com/msanmaz/shopmosh">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=shopmosh&theme=tokyonight" />
-</a>
-<a href="https://github.com/msanmaz/bnb-homes">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=msanmaz&repo=bnb-homes&theme=tokyonight" />
-</a>
   <img width="400" src="/bearpower.gif" />
     <img width="400" src="/landing-glow.png" />
 <a href="https://github.com/msanmaz/gsap-pg">
